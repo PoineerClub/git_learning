@@ -1,0 +1,12 @@
+git init 
+git add file1 
+
+git commit -m "first commit"
+
+git remote add origin main url
+
+git push -u origin main 
+git pull origin main
+
+git fetch
+
